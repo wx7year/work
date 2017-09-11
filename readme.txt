@@ -1,4 +1,5 @@
 #incldue <iostream>
+#include <stdlib>
 
 int main()
 {
